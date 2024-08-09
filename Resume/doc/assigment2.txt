@@ -1,0 +1,25 @@
+One of the most common and one of the most important uses of technical writing is instructions—those step-by-step explanations of how to do things: assemble something, operate something, repair something, or do routine maintenance on something. But for something seemingly so easy and intuitive, instructions are some of the worst-written documents you can find. Like me, you've probably had many infuriating experiences with badly written instructions. What follows in this chapter may not be a fool-proof, goof-proof guide to writing instructions, but it will show you what professionals consider the best techniques.
+
+Ultimately, good instruction writing requires:
+
+Clear, simple writing
+A thorough understanding of the procedure in all its technical detail
+Your ability to put yourself in the place of the reader, the person trying to use your instructions
+Your ability to visualize the procedure in great detail and to capture that awareness on paper
+Finally, your willingness to go that extra distance and test your instructions on the kind of person you wrote them for.
+By now, you've probably studied headings, lists, and special notices—writing a set of instructions with these tools probably seems obvious. Just break the discussion out into numbered vertical lists and throw in some special notices at the obvious points and you're done! Well, not quite, but that's a great start. This chapter explores some of the features of instructions that can make them more complex. You can in turn use these considerations to plan your own instructions.
+
+Some Preliminaries
+At the beginning of a project to write instructions, it's important to determine the structure or characteristics of the particular procedure you are going to write about.
+
+Audience and situation. Early in the process, define the audience and situation of your instructions. Remember that defining an audience means defining its level of familiarity with the topic as well as other such details. See the discussion of audiences and steps to use in defining audiences.
+
+Most importantly, if you are in a writing course, you'll need to write a description of your audience and attach that to your instructions. This will enable your instructor to assess your instructions in terms of their rightness for the intended audience. And remember too that in a technical-writing course it is preferable to write for nonspecialist audiences—much more of a challenge to you as a writer.
+
+Number of tasks. How many tasks are there in the procedure you are writing about? Let's use the term procedure to refer to the whole set of activities your instructions are intended to discuss. A task is a semi-independent group of actions within the procedure: for example, setting the clock on a microwave oven is one task in the big overall procedure of operating a microwave oven.
+
+A simple procedure like changing the oil in a car contains only one task; there are no semi-independent groupings of activities. A more complex procedure like using a microwave oven contains plenty of such semi-independent tasks: setting the clock; setting the power level; using the timer; cleaning and maintaining the microwave, among others. (The instructions on using a camera are organized by tasks.)
+
+Some instructions have only a single task, but have many steps within that single task. For example, imagine a set of instructions for assembling a kids' swing set. In my own experience, there were more than a 130 steps! That can be a bit daunting. A good approach is to group similar and related steps into phases, and start renumbering the steps at each new phase. A phase then is a group of similar steps within a single-task procedure. In the swing-set example, setting up the frame would be a phase; anchoring the thing in the ground would be another; assembling the box swing would be still another.
+
+Best approach to the step-by-step discussion. Another consideration, which maybe you can't determine early on, is how to focus your instructions. For most instructions, you can focus on tasks, or you can focus on tools (or features of tools).
