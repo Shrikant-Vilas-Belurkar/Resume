@@ -5,3 +5,4 @@ from .models import Resume
 class ResumeModelAdmin(admin.ModelAdmin):
     list_display = ['id','name','dob','gender','locality','city','pin' ,'state','mobile','email' ,'job_city', 'profile_images', 'my_file' ]
 
+
